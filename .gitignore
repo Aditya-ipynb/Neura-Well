@@ -1,0 +1,26 @@
+# Ignore training data
+data/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tasks
+tasks/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore exploratory notebook
+notebooks/1_data_exploration.ipynb
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Output files
+outputs/
